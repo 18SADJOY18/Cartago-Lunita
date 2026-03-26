@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Cartago-Lunita",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"adjective": ["Cartago-Lunita"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		"uniques": ["[+1000] [Gold] from each Trade Routes",
