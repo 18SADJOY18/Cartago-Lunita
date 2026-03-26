@@ -32,9 +32,13 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniques":"[+100]% Strength <when fighting units from a Civilization with more Cities than you>", 
+		"uniques":["[+100]% Strength <when fighting units from a Civilization with more Cities than you>", 
 ["Retain [50]% of the happiness from a luxury after the last copy has been traded away"], 
 "[-80]% maintenance on road & railroads"],
+		
+		
+		
+		
 		"cities": ["Túnez","Kairuán","Mahdía","Susa","Bizerta","Palermo","Cagliari","Cartagena","Ibiza",
 			"Cádiz"]
 	}
