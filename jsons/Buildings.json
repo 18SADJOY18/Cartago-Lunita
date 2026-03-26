@@ -2,23 +2,11 @@
 	{
 		"name": "Market Carthage",
 		"replaces": "Market"
-		"uniqueTo": "Aliens",
-		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
+		"uniqueTo": "Cartago-Lunita",
+		"gold": 100,
+		"specialistSlots": {"Merchant": 4},
+		"hurryCostModifier": 2,
+		"percentStatBonus": {"gold": 200},
 		"requiredTech": "Currency"
-	},
-	{
-		"name": "Martian Temple",
-		"replaces": "Shrine",
-		"uniqueTo": "Aliens",
-		"cost": 6,
-		"happiness": 10,
-		"culture": 10, 
-		"science": 10,
-		"faith": 10,
-		"gold": 200,
-		"requiredTech": "Pottery",
 	}
 ]
