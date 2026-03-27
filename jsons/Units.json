@@ -1,9 +1,8 @@
 [
 	{
-		"name": "African Camel Archer",
+		"name": "Camel Archer",
 		"unitType": "Archery",
 		"uniqueTo": "Cartago-Lunita",
-		"replaces": "Camel Archer",
 		"movement": 3,
 		"strength": 20,
 		"rangedStrength": 20,
@@ -15,10 +14,9 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Carthage Elephant",
+		"name": "Naresuan's Elephant",
 		"unitType": "Mounted",
 		"uniqueTo": "Cartago-Lunita",
-		"replaces": "Naresuan's Elephant",
 		"movement": 2,
 		"strength": 30,
 		"cost": 100,
@@ -29,10 +27,9 @@
 		"attackSound": "elephant"
 	},
 	{
-        "name": "War African Elephant",
+        "name": "War Elephant",
 		"unitType": "Archery",
 		"uniqueTo": "Cartago-Lunita",
-		"replaces": "War Elephant",
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 30,
@@ -58,10 +55,9 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-        "name": "African Elephant",
+        "name": "African Forest Elephant",
 		"unitType": "Mounted",
         "uniqueTo": "Cartago-Lunita",
-		"replaces": "African Forest Elephant",
         "movement": 2,
         "strength": 30,
         "cost": 80,
@@ -103,10 +99,9 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "African Sipahi",
+		"name": "Sipahi",
 		"unitType": "Mounted",
 		"uniqueTo": "Cartago-Lunita",
-		"replaces": "Sipahi",
 		"movement": 3,
 		"strength": 30,
 		"cost": 200,
