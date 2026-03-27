@@ -23,7 +23,9 @@
 		"requiredTech": "The Wheel"
 	},
 	{
-		"name": "Mausoleum of Halicarnassus",
+		"name": "Sale of Slaves",
+		"replaces": "Mausoleum of Halicarnassus",
+		"uniqueTo": "Cartago-Lunita",
 		"culture": 14,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
