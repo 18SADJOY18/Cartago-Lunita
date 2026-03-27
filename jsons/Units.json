@@ -1,9 +1,9 @@
 [
 	{
 		"name": "African Camel Archer",
-		"replaces": "Camel Archer",
 		"unitType": "Archery",
 		"uniqueTo": "Cartago-Lunita",
+		"replaces": "Camel Archer",
 		"movement": 3,
 		"strength": 20,
 		"rangedStrength": 20,
@@ -16,9 +16,9 @@
 	},
 	{
 		"name": "Carthage Elephant",
-		"replaces": "Naresuan's Elephant",
 		"unitType": "Mounted",
 		"uniqueTo": "Cartago-Lunita",
+		"replaces": "Naresuan's Elephant",
 		"movement": 2,
 		"strength": 30,
 		"cost": 100,
@@ -31,9 +31,9 @@
 	},
 	{
         "name": "War African Elephant",
-		"replaces": "War Elephant",
 		"unitType": "Archery",
 		"uniqueTo": "Cartago-Lunita",
+		"replaces": "War Elephant",
 		"movement": 2,
 		"strength": 30,
 		"rangedStrength": 30,
@@ -62,9 +62,9 @@
 	},
 	{
         "name": "African Elephant",
-        "replaces": "African Forest Elephant",
 		"unitType": "Mounted",
         "uniqueTo": "Cartago-Lunita",
+		"replaces": "African Forest Elephant",
         "movement": 2,
         "strength": 30,
         "cost": 80,
@@ -79,9 +79,9 @@
 	},	
 	{
 		"name": "African Warrior",
-		"replaces": "Warrior"
 		"unitType": "Sword",
 		"uniqueTo": "Cartago-Lunita",
+		"replaces": "Warrior"
 		"movement": 3,
 		"strength": 3,
 		"cost": 20,
@@ -96,9 +96,9 @@
 	},
 	{
 		"name": "African Spearman",
-		"replaces": "Spearman",
 		"unitType": "Sword",
 		"uniqueTo": "Cartago-Lunita",
+		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 16,
 		"cost": 70,
@@ -110,10 +110,9 @@
 	},
 	{
 		"name": "African Sipahi",
-		"replaces": "Sipahi",
 		"unitType": "Mounted",
-		"replaces": "Lancer",
 		"uniqueTo": "Cartago-Lunita",
+		"replaces": "Sipahi",
 		"movement": 3,
 		"strength": 30,
 		"cost": 200,
@@ -128,9 +127,9 @@
 	},
 	{
 		"name": "African Longswordsman",
-		"replaces": "Longswordsman",
 		"unitType": "Sword",
 		"uniqueTo": "Cartago-Lunita",
+		"replaces": "Longswordsman",
 		"movement": 3,
 		"strength": 18,
 		"cost": 100,
