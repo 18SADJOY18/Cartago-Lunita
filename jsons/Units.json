@@ -11,7 +11,7 @@
 		"requiredTech": "Chivalry",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"], "[+20]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "arrow"
 	},
 	{
@@ -25,7 +25,7 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+20]% Strength <vs [Mounted] units>","[+40]% Strength <vs cities> <when attacking>"], "[+40]% Strength <vs cities> <when attacking>",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+20]% Strength <vs [Mounted] units>",
             "[+30]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"attackSound": "elephant"
 	},
@@ -41,7 +41,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "[+30]% Strength <vs cities> <when attacking>"], "[+30]% Strength <vs cities> <when attacking>",
+		"uniques": ["No defensive terrain bonus",
             "[+30]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"attackSound": "elephant"
 	},
@@ -72,7 +72,7 @@
         "upgradesTo": "Knight",
         "obsoleteTech": "Chivalry",
         "promotions": ["Great Generals II"],
-        "uniques": ["Can move after attacking", "No defensive terrain bonus", "[+30]% Strength <vs cities> <when attacking>",
+        "uniques": ["Can move after attacking", "No defensive terrain bonus",
             "[+30]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "hurryCostModifier": 20,
         "attackSound": "elephant"
@@ -118,7 +118,7 @@
 		"cost": 200,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+30]% Strength <vs cities> <when attacking>",
+		"uniques": ["Can move after attacking","No defensive terrain bonus",
 			"[+4] Sight"],
 		"promotions": ["[Sipahi] ability","Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
